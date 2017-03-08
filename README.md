@@ -1,5 +1,5 @@
-# sqltalk
-An Introduction on SQL Databases using Pandas and SQLAlchemy
+# Talk: An Introduction on SQL Databases using Pandas and SQLAlchemy
+
 Given by Nicholas A. Del Grosso on March 8, 2017 at Ludwig-Maximillians-Üniversität in Munich, Germany
 
 ## Talk Goals
