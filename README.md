@@ -9,3 +9,9 @@ Given by Nicholas A. Del Grosso on March 8, 2017 at Ludwig-Maximillians-Ünivers
   - Introduce Relational Databases
   - Introduce sqlite3 and database management software
   - Introduce SQL Syntax and do some queries on a database.
+
+## Required Packages
+
+  - pandas
+  - sqlalchemy
+  
