@@ -15,3 +15,6 @@ Given by Nicholas A. Del Grosso on March 8, 2017 at Ludwig-Maximillians-Ünivers
   - pandas
   - sqlalchemy
   
+## Additional Resources
+  - SQL and Pandas cheatsheet files are in this repo!
+  - Datacamp now offers some tutorial for joins in Pandas! https://www.datacamp.com/courses/merging-dataframes-with-pandas
